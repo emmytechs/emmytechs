@@ -7,10 +7,14 @@
    
 <h3>
  Full Stack Flutter Developer
+ 
 </h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=emmytechs&theme=matrix&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=emmytechs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--

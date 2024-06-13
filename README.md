@@ -1,8 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+<h2>
+ Hi 👋, I'm Bolarinwa Emmanuel (Emmytechs)
+</h2>
+
+
+   
+<h3>
+ Full Stack Flutter Developer
+</h3>
 </div>
 
-## Hi there 👋
 
 <!--
 **emmytechs/emmytechs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

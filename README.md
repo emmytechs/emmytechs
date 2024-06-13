@@ -10,6 +10,8 @@
 </h3>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=emmytechs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **emmytechs/emmytechs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

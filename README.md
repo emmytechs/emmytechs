@@ -110,6 +110,6 @@ class Developer {
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." — Cory House
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:0175C2&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:0175C2&height=100&section=footer" width="100%"/>
 
 </div>

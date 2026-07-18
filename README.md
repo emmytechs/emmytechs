@@ -99,7 +99,7 @@ class Developer {
 <!-- Fully static badges — no external API calls, so these can never fail to load -->
 <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-13B9FD?style=for-the-badge&logo=stackshare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Freelance-Available-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+<img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20To-Collaborate-0175C2?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>

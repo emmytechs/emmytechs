@@ -80,12 +80,14 @@ class Developer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=emmytechs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmytechs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=emmytechs&theme=tokyonight&hide_border=true"/>
+<!--
+  These use shields.io, the same badge infrastructure used across npm, PyPI, and most
+  major open-source projects — heavily cached and very rarely down, unlike the live
+  "fancy card" widgets. Simple, but it just works.
+-->
+<img src="https://img.shields.io/github/followers/emmytechs?label=Followers&style=for-the-badge&color=0175C2&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Femmytechs&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=13B9FD&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=emmytechs&label=Profile%20Views&style=for-the-badge&color=0175C2"/>
 
 </div>
 
@@ -98,6 +100,8 @@ class Developer {
   <img src="https://github-profile-trophy.vercel.app/?username=emmytechs&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
 </a>
 </div>
+
+<sub>This one is still a third-party live widget (there isn't a more reliable trophy provider — they all work the same way), so it can occasionally fail to load. If it does, it's the service, not your setup — it usually recovers within a day.</sub>
 
 <br/>
 

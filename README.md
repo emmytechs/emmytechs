@@ -81,35 +81,34 @@ class Developer {
 <div align="center">
 
 <!--
-  These use shields.io, the same badge infrastructure used across npm, PyPI, and most
-  major open-source projects — heavily cached and very rarely down, unlike the live
-  "fancy card" widgets. Simple, but it just works.
+  Built-in shields.io GitHub badges — these go through shields' own authenticated
+  GitHub integration (higher rate limit), unlike raw API/JSON badges, so they're
+  reliable rather than "best effort."
 -->
 <img src="https://img.shields.io/github/followers/emmytechs?label=Followers&style=for-the-badge&color=0175C2&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Femmytechs&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=13B9FD&logo=github&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=emmytechs&label=Profile%20Views&style=for-the-badge&color=0175C2"/>
+<img src="https://img.shields.io/github/stars/emmytechs?label=Total%20Stars&style=for-the-badge&color=13B9FD&logo=github&logoColor=white"/>
 
 </div>
 
 <br/>
 
-## 🏆 Trophies
+## 🚀 Highlights
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=emmytechs&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
-</a>
-</div>
 
-<sub>This one is still a third-party live widget (there isn't a more reliable trophy provider — they all work the same way), so it can occasionally fail to load. If it does, it's the service, not your setup — it usually recovers within a day.</sub>
+<!-- Fully static badges — no external API calls, so these can never fail to load -->
+<img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-13B9FD?style=for-the-badge&logo=stackshare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Freelance-Available-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20To-Collaborate-0175C2?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
 
 <br/>
 
 <div align="center">
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." — Cory House
-
-<img src="https://komarev.com/ghpvc/?username=emmytechs&label=Profile%20Views&color=0175C2&style=flat"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:0175C2&height=100&section=footer"/>
 

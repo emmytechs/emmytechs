@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:13B9FD&height=200&section=header&text=Bolarinwa%20Emmanuel&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Flutter%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/emmytechs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Building+beautiful+cross-platform+apps+with+Flutter;Dart+%7C+Firebase+%7C+Clean+Architecture+%7C+BLoC;Turning+ideas+into+pixel-perfect+mobile+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=13B9FD&center=true&vCenter=true&width=820&height=50&lines=Building+beautiful+cross-platform+apps+with+Flutter;Dart+%7C+Firebase+%7C+Clean+Architecture+%7C+BLoC;Turning+ideas+into+pixel-perfect+mobile+experiences" alt="Typing SVG" />
 </a>
 
 <br/>
